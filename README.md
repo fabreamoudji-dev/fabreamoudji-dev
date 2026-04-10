@@ -27,6 +27,11 @@ terrain en agriculture et élevage avec les compétences data.
 - Outils : SQL · Python · Pandas · Seaborn
 - [Voir sur Kaggle](https://www.kaggle.com/code/fabriceamoudji/analyse-nutritionnelle-des-aliments-sql-pandas)
 
+### 2. Analyse de ventes de suppléments alimentaires
+- Analyse de 4384 enregistrements de ventes hebdomadaire de suppléments (vitamines, Whey proteines, Omega...)
+- Outils : SQL · Python · Pandas · Seaborn · Matplotlib
+- [Voir sur Kaggle](https://www.kaggle.com/code/fabriceamoudji/analyse-de-donn-es-de-ventes-hebdomadaires)
+
 ---
 
 ## 🌍 Domaines d'intérêt
@@ -41,3 +46,5 @@ terrain en agriculture et élevage avec les compétences data.
 
 - Kaggle : [fabriceamoudji](https://www.kaggle.com/fabriceamoudji)
 - Localisation : Lomé, Togo
+- Téléphone : +228 93377193
+- fabreamoudji@gmail.com 
